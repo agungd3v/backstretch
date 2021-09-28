@@ -6,7 +6,7 @@ Backstretch is a javascript package to make it easy for you to create a backgrou
 
 clone this repository and paste codes below in your html code
 
-```bash
+```python
 <script src="/backstretch.js"></script>
 <script>
   backstretch('YOUR_IMAGE_HERE')
